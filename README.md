@@ -1,16 +1,23 @@
-## Hi there 👋
+## 📊 GitHub Statistics
 
-<!--
-**Dnyandip26/Dnyandip26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnyandip26&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-Here are some ideas to get you started:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyandip26&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dnyandip26&theme=tokyo-night)
+
+## 💡 Featured Code
+
+### RAG Pipeline Implementation
+\`\`\`python
+from langchain.vectorstores import FAISS
+from langchain.embeddings import HuggingFaceEmbeddings
+
+def create_rag_pipeline(documents):
+    embeddings = HuggingFaceEmbeddings()
+    vectorstore = FAISS.from_documents(documents, embeddings)
+    return vectorstore.as_retriever()
+\`\`\`
+
+
