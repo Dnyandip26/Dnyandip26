@@ -11,7 +11,7 @@
 
 Final-year IT Engineering student at **Zeal College of Engineering & Research, Pune**. Passionate about building production-ready AI/ML systems with focus on RAG, Knowledge Graphs & Generative AI.
 
-🎓 **CGPA:** 8.52 | 🔍 **Seeking:** AI/ML & Data Science Internships
+🎓 **CGPA:** 8.60 | 🔍 **Seeking:** AI/ML & Data Science Internships
 
 ---
 
