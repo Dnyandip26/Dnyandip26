@@ -1,108 +1,96 @@
-# 👋 Dnyandip Vadane
+<div align="center">
 
-**AI/ML Developer** | **RAG Enthusiast** | **GenAI Builder**
+<img src="assets/dnyandip-hero.svg" alt="Dnyandip Vadane — AI/ML and Software Development" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyandip-vadane)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dnyandip26)
+### IT Engineering Student · AI/ML · Generative AI · Software Development
 
----
+Building practical AI applications, retrieval systems, and software projects.
 
-## 👨‍💻 About Me
+[GitHub](https://github.com/dnyandip26) · [LinkedIn](https://www.linkedin.com/in/dnyandip-vadane/) · [Email](mailto:dnyandipvadane@gmail.com)
 
-Final-year IT Engineering student at **Zeal College of Engineering & Research, Pune**. Passionate about building production-ready AI/ML systems with focus on RAG, Knowledge Graphs & Generative AI.
-
-🎓 **CGPA:** 8.60 | 🔍 **Seeking:** AI/ML & Data Science Internships
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+I'm **Dnyandip Vadane**, a final-year Information Technology engineering student at **Zeal College of Engineering & Research, Pune** (2023–2027). I enjoy building practical applications across AI/ML, Generative AI, data analysis, and software development.
 
-**AI/ML & Data**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- Working with Python, machine learning workflows, and LLM-powered applications.
+- Exploring RAG and GraphRAG for knowledge retrieval and question answering.
+- Currently gaining hands-on experience as a Java Development Intern.
+- Interested in AI/ML engineering and software development.
 
-**Vector & Graph Databases**  
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FFA500?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-F77700?style=flat-square)
-![TigerGraph](https://img.shields.io/badge/TigerGraph-009999?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-00A3E0?style=flat-square)
+## Featured Projects
 
-**LLMs & APIs**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+### GraphRAG Inference Engine — TigerGraph Hackathon
+Compared LLM-only, standard RAG using FAISS, and GraphRAG pipelines for knowledge retrieval. Used Sentence Transformers for embeddings and Groq API for LLM inference, with a Streamlit comparison dashboard.
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+**Tech:** Python · GraphRAG · RAG · FAISS · Sentence Transformers · Groq API · Streamlit
 
----
+### BIS Compliance AI — Hackathon Project
+Built a RAG pipeline to help Indian micro, small, and medium enterprises identify relevant BIS regulations. Implemented hybrid retrieval using FAISS semantic search and keyword matching in a Streamlit interface.
 
-## 🏆 Key Achievements
+**Tech:** Python · RAG · FAISS · Semantic Search · Streamlit
 
-- 🥈 **Round 2 Qualifier** - BIS x Sigma Squad AI Hackathon
-- ⚡ **100% Hit Rate @3** | **MRR @5 = 1.0** in RAG evaluation
-- ⏱️ **Sub-millisecond latency** in vector search optimization
-- 📊 Built comparative analysis of LLM vs RAG vs GraphRAG pipelines
+### AI-Based Face Recognition Attendance System
+Built a real-time face-recognition attendance system using Python and OpenCV. Automated timestamped attendance logging and CSV export for 30+ users.
 
----
+**Tech:** Python · OpenCV · Face Recognition · CSV
 
-## 📌 Featured Projects
+### RoadGuardian — Smart Road-Safety Application
+Developing a smart road-safety application using Core Java and JavaFX as part of my Java Development Internship. Implemented geo-tagging and image-validation logic and integrated Firebase for real-time synchronization.
 
-### 🏛️ BIS Smart Compliance AI
-**RAG Pipeline for Building Materials Compliance**
-- Hackathon Round 2 Qualifier
-- Achieves 100% Hit Rate @3, MRR @5 = 1.0
-- Sub-millisecond latency
-- **Tech:** Python, LangChain, FAISS, ChromaDB
-- [View Repository](https://github.com/Dnyandip26/bis-smart-compliance-ai)
+**Tech:** Core Java · JavaFX · Firebase · Git
 
-### 📊 GraphRAG Inference Engine
-**Multi-pipeline Comparison System**
-- LLM-only vs Basic RAG (FAISS) vs GraphRAG comparison
-- Interactive Streamlit dashboard
-- **Tech:** Groq API, Sentence-Transformers, TigerGraph
-- [View Repository](https://github.com/Dnyandip26/graphrag-inference-hackathon)
+> Project repository links can be added to each heading once the correct public repository URLs are confirmed. No project URLs or demo links have been guessed.
 
-### 📈 UDAI
-**Data Analysis & Insights Platform**
-- [View Repository](https://github.com/Dnyandip26/udai)
+## Technical Skills
 
----
+| Category | Technologies |
+|---|---|
+| Programming | Python, Java, SQL |
+| AI / ML | Scikit-learn, OpenCV, Face Recognition |
+| Generative AI & Retrieval | RAG, GraphRAG, FAISS, Embeddings, LangChain, Ollama, Prompt Engineering |
+| Data Analysis | Pandas, NumPy, Data Cleaning, EDA, Feature Engineering |
+| Visualization | Streamlit, Matplotlib, Seaborn, Power BI |
+| Databases & Tools | MySQL, MongoDB, Firebase, Git, GitHub, Linux, Jupyter Notebook, Google Colab, VS Code |
+| Software Practices | Debugging, Application Testing, Test Case Design, SDLC Basics, Agile, Code Review |
 
-## 💡 Skills Overview
+## Experience & Training
 
-| Category | Skills |
-|----------|--------|
-| **RAG Systems** | LangChain, FAISS, Vector Search |
-| **LLMs** | Prompt Engineering, Fine-tuning, API Integration |
-| **Knowledge Graphs** | TigerGraph, Graph Query, Knowledge Representation |
-| **ML/DL** | PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy |
-| **Backend** | FastAPI, REST APIs, Microservices |
-| **Frontend** | Streamlit, Web Interfaces |
-| **Databases** | Vector DBs, SQL, NoSQL |
-| **DevOps** | Docker, Git, CI/CD basics |
+**Java Development Intern — Incubators Systems**  
+*July 2026 – Present*
+- Developing RoadGuardian, a smart road-safety application using Core Java and JavaFX.
+- Implemented geo-tagging and image-validation logic; integrated Firebase for real-time synchronization.
+- Performed application testing and used Git for version control and team collaboration.
 
----
+**IR 4.0 Technologies Training — Edunet Foundation / TechSaksham**  
+*February 2025 – March 2025*
+- Trained in Python, data analysis, Linux, AI, and Industry 4.0 technologies.
+- Used Pandas and NumPy for structured dataset handling and data analysis.
 
-## 🔗 Connect With Me
+## Certifications
 
-📧 **Email:** dnyandip00@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/dnyandip-vadane](https://linkedin.com/in/dnyandip-vadane)  
-💻 **GitHub:** [github.com/Dnyandip26](https://github.com/Dnyandip26)
+- Microsoft–SAP IR 4.0 Training
+- NVIDIA Generative AI
+- IBM Generative AI
+- Azure AI Essentials
+- LinkedIn Learning — Data Analytics
+
+## Education
+
+**B.E. Information Technology**  
+Zeal College of Engineering & Research, Pune · 2023–2027  
+CGPA: **8.60**
+
+**HSC:** 75.50% · Residential Junior College of Science, Shevgaon (2021–2023)  
+**SSC:** 87.60% · Bhatkudgaon High School (2020–2021)
 
 ---
 
 <div align="center">
+<img src="assets/dnyandip-footer.svg" alt="Keep learning, keep building" width="100%" />
 
-**⭐ Open to AI/ML internships and collaboration opportunities!**
-
+*Learning by building. Improving one project at a time.*
 </div>
