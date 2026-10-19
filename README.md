@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="./dnyandip-hero.svg" alt="Dnyandip Vadane — AI/ML and Software Development" width="100%" />
+<img src="assets/dnyandip-hero.svg" alt="Dnyandip Vadane — AI/ML, Generative AI and Software Development" width="100%"/>
 
-<a href="https://github.com/dnyandip26"><img src="https://img.shields.io/badge/GitHub-Dnyandip26-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/dnyandip-vadane/"><img src="https://img.shields.io/badge/LinkedIn-Dnyandip%20Vadane-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn"/></a>
-<a href="mailto:dnyandipvadane@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-C77B9B?style=for-the-badge&logo=gmail&logoColor=10070C" alt="Email"/></a>
+<br/>
+
+<a href="https://github.com/Dnyandip26"><img src="https://img.shields.io/badge/GitHub-Dnyandip26-701A3D?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/dnyandip-vadane/"><img src="https://img.shields.io/badge/LinkedIn-Connect-C77B9B?style=for-the-badge&logo=linkedin&logoColor=10070C" alt="LinkedIn"/></a>
+<a href="mailto:dnyandipvadane@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-E5B5C7?style=for-the-badge&logo=gmail&logoColor=10070C" alt="Email"/></a>
 
 </div>
 
@@ -12,185 +14,154 @@
 
 <div align="center">
 
-<sub>01 / ABOUT ME</sub>
+### IT Engineering Student · AI/ML · Generative AI · Software Development
 
-# Hello, I'm <em>Dnyandip.</em>
-
-**IT Engineering Student · AI/ML · Generative AI · Software Development**
-
-I build practical AI applications, retrieval systems, and software projects — turning ideas into working prototypes through experimentation, problem-solving, and continuous learning.
+I build practical AI applications, retrieval systems, and software projects — learning by turning ideas into working prototypes.
 
 </div>
 
-## `whoami` — A little about me
+## 01 / About me
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<div align="center">
+<img src="assets/dnyandip-terminal.svg" alt="Terminal-style introduction and quick profile" width="100%"/>
+</div>
 
-- 🎓 Final-year **B.E. Information Technology** student at Zeal College of Engineering & Research, Pune.
-- 🤖 Interested in **AI/ML, Generative AI, RAG, GraphRAG, and data analysis**.
-- 🧩 Enjoy building applications that combine retrieval, data processing, and useful interfaces.
-- 💻 Currently working as a **Java Development Intern**, contributing to a road-safety application.
-- 🌱 Focused on strengthening software engineering, AI application development, and project-building skills.
+I'm **Dnyandip Vadane**, a final-year **B.E. Information Technology** student at **Zeal College of Engineering & Research, Pune** (2023–2027). My work and learning span AI/ML, computer vision, retrieval-augmented generation, data analysis, and software development.
 
-</td>
-<td width="38%" valign="top">
+- Building Python-based AI applications and exploring LLM-powered retrieval workflows.
+- Interested in RAG, GraphRAG, data processing, and practical ML problem-solving.
+- Currently working as a **Java Development Intern at Incubators by Core2Web**, contributing to RoadGuardian.
+- Strengthening software engineering practices through testing, debugging, Git, and collaborative development.
 
-### Quick profile
+## 02 / Selected work
 
-| | |
-|---|---|
-| **Education** | B.E. IT |
-| **Graduation** | 2027 |
-| **Location** | Pune, India |
-| **Primary language** | Python |
-| **Also use** | Java, SQL |
-| **Current focus** | AI applications + software |
+<div align="center">
+<img src="assets/project-graphrag.svg" alt="GraphRAG Inference Engine project card" width="100%"/>
+</div>
 
-</td>
-</tr>
-</table>
+**GraphRAG Inference Engine — TigerGraph Hackathon**  
+Compared LLM-only, standard RAG using FAISS, and GraphRAG pipelines for knowledge retrieval. Used Sentence Transformers for embeddings and Groq API for LLM inference, with a Streamlit comparison dashboard.
 
-## `stack --list` — Technologies
+**Stack:** Python · FAISS · Sentence Transformers · Groq API · Streamlit
+
+<div align="center">
+<img src="assets/project-bis.svg" alt="BIS Compliance AI project card" width="100%"/>
+</div>
+
+**BIS Compliance AI — Hackathon Project**  
+Built a retrieval-augmented generation pipeline to help Indian micro and small enterprises find relevant Bureau of Indian Standards regulations. Combined FAISS semantic retrieval with keyword matching in a Streamlit interface.
+
+**Stack:** Python · RAG · FAISS · Hybrid Retrieval · Streamlit
+
+<div align="center">
+<img src="assets/project-face.svg" alt="Face recognition attendance project card" width="100%"/>
+</div>
+
+**AI-Based Face Recognition System**  
+Built a real-time face-recognition attendance system using Python and OpenCV, with timestamped attendance logging and CSV export for 30+ users.
+
+**Stack:** Python · OpenCV · face_recognition · CSV  
+**Repository:** [Face Detection using Python](https://github.com/Dnyandip26/Face-Detection-using-Python)
+
+**More projects I'm building or exploring**
+- **RoadGuardian** — smart road-safety application using Core Java, JavaFX, and Firebase as part of my internship.
+- **Phishing Email Detection Dashboard** — a Python ML dashboard exploring feature engineering and classification.
+- **Poll Results Visualizer** — an interactive Python dashboard for poll-data analysis and CSV uploads.
+- **SafeSense AI** — a food-safety intelligence project concept focused on product analysis and regulatory information.
+
+> The additional projects above are listed as work in progress or project explorations; this README does not imply that each is deployed or production-ready.
+
+## 03 / Technology constellation
 
 <div align="center">
 
-**Programming**
-
-<img src="https://img.shields.io/badge/Python-451126?style=for-the-badge&logo=python&logoColor=F8F0F3" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-701A3D?style=for-the-badge&logo=openjdk&logoColor=F8F0F3" alt="Java"/>
+**Programming**  
+<img src="https://img.shields.io/badge/Python-701A3D?style=for-the-badge&logo=python&logoColor=F8F0F3" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-451126?style=for-the-badge&logo=openjdk&logoColor=F8F0F3" alt="Java"/>
 <img src="https://img.shields.io/badge/SQL-C77B9B?style=for-the-badge&logo=postgresql&logoColor=10070C" alt="SQL"/>
 
-**AI / ML and Generative AI**
+**AI / ML / Retrieval**  
+<img src="https://img.shields.io/badge/Scikit--learn-701A3D?style=for-the-badge&logo=scikitlearn&logoColor=F8F0F3" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-451126?style=for-the-badge&logo=opencv&logoColor=F8F0F3" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/RAG%20%2F%20GraphRAG-C77B9B?style=for-the-badge&logoColor=10070C" alt="RAG and GraphRAG"/>
+<img src="https://img.shields.io/badge/FAISS-701A3D?style=for-the-badge&logoColor=F8F0F3" alt="FAISS"/>
+<img src="https://img.shields.io/badge/LangChain-451126?style=for-the-badge&logo=chainlink&logoColor=F8F0F3" alt="LangChain"/>
 
-<img src="https://img.shields.io/badge/Scikit--learn-451126?style=for-the-badge&logo=scikitlearn&logoColor=F8F0F3" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/OpenCV-701A3D?style=for-the-badge&logo=opencv&logoColor=F8F0F3" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/RAG%20%2F%20GraphRAG-C77B9B?style=for-the-badge&logo=googlegemini&logoColor=10070C" alt="RAG and GraphRAG"/>
-<img src="https://img.shields.io/badge/FAISS-451126?style=for-the-badge&logo=meta&logoColor=F8F0F3" alt="FAISS"/>
-<img src="https://img.shields.io/badge/LangChain-701A3D?style=for-the-badge&logo=chainlink&logoColor=F8F0F3" alt="LangChain"/>
-
-**Data, UI and Tools**
-
-<img src="https://img.shields.io/badge/Pandas-451126?style=for-the-badge&logo=pandas&logoColor=F8F0F3" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-701A3D?style=for-the-badge&logo=numpy&logoColor=F8F0F3" alt="NumPy"/>
+**Data / Visualization**  
+<img src="https://img.shields.io/badge/Pandas-701A3D?style=for-the-badge&logo=pandas&logoColor=F8F0F3" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-451126?style=for-the-badge&logo=numpy&logoColor=F8F0F3" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Streamlit-C77B9B?style=for-the-badge&logo=streamlit&logoColor=10070C" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Power%20BI-701A3D?style=for-the-badge&logo=powerbi&logoColor=F8F0F3" alt="Power BI"/>
+
+**Databases / Tools / Practices**  
 <img src="https://img.shields.io/badge/MySQL-451126?style=for-the-badge&logo=mysql&logoColor=F8F0F3" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-701A3D?style=for-the-badge&logo=mongodb&logoColor=F8F0F3" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Firebase-C77B9B?style=for-the-badge&logo=firebase&logoColor=10070C" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Git%20%2F%20GitHub-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="Git and GitHub"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-451126?style=for-the-badge&logo=github&logoColor=F8F0F3" alt="Git and GitHub"/>
+<img src="https://img.shields.io/badge/Linux-701A3D?style=for-the-badge&logo=linux&logoColor=F8F0F3" alt="Linux"/>
+<img src="https://img.shields.io/badge/Testing%20%26%20Debugging-C77B9B?style=for-the-badge&logoColor=10070C" alt="Testing and debugging"/>
 
 </div>
 
-## `projects --featured` — Selected work
+## 04 / Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Java Development Intern — Incubators by Core2Web
+*July 2026 – Present*
 
-### GraphRAG Inference Engine
-**TigerGraph Hackathon · 2025–2026**
+- Working on **RoadGuardian**, a smart road-safety application using Core Java and JavaFX.
+- Implemented geo-tagging and image-validation logic with attention to data integrity.
+- Integrated Firebase for real-time synchronization.
+- Participated in application testing, Git-based version control, and team collaboration.
 
-Compared LLM-only, standard RAG with FAISS, and GraphRAG pipelines for knowledge retrieval. Used Sentence Transformers for embeddings and Groq API for inference, with a Streamlit comparison dashboard.
+### IR 4.0 Technologies Training — Edunet Foundation / TechSaksham
+*February 2025 – March 2025*
 
-**Built with:** Python · FAISS · GraphRAG · Sentence Transformers · Groq · Streamlit
+- Trained in Python, data analysis, Linux, AI, and Industry 4.0 technologies under the Microsoft–SAP initiative.
+- Used Pandas and NumPy for structured dataset handling and data analysis.
 
-</td>
-<td width="50%" valign="top">
+## 05 / Education
 
-### BIS Compliance AI
-**Hackathon project · 2026**
-
-Built a retrieval-augmented pipeline to help Indian MSEs identify relevant BIS regulations. Combined FAISS semantic retrieval with keyword matching in a Streamlit interface.
-
-**Built with:** Python · RAG · FAISS · Hybrid Retrieval · Streamlit
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Face Recognition Attendance
-**Computer Vision · 2025**
-
-Built a real-time face-recognition attendance system using Python and OpenCV, with timestamped attendance logging and CSV export for 30+ users.
-
-**Built with:** Python · OpenCV · Face Recognition · CSV
-
-</td>
-<td width="50%" valign="top">
-
-### RoadGuardian
-**Java Development Internship · 2026–Present**
-
-Contributing to a smart road-safety application. Work includes geo-tagging, image-validation logic, Firebase real-time synchronization, application testing, and Git-based collaboration.
-
-**Built with:** Core Java · JavaFX · Firebase · Git
-
-</td>
-</tr>
-</table>
-
-> **Repository links:** Add the real public repository URLs to each project when confirmed. The links are intentionally not guessed.
-
-## `experience --timeline`
-
-### Java Development Intern · Incubators Systems
-<sub>July 2026 – Present</sub>
-
-- Developing **RoadGuardian**, a smart road-safety application using Core Java and JavaFX.
-- Implemented geo-tagging and image-validation logic; integrated Firebase for real-time synchronization.
-- Performed application testing and used Git for version control and team collaboration.
-
-### IR 4.0 Technologies Training · Edunet Foundation / TechSaksham
-<sub>February 2025 – March 2025</sub>
-
-- Trained in Python, data analysis, Linux, AI, and Industry 4.0 technologies.
-- Used Pandas and NumPy for structured dataset handling and analysis.
-
-## `education --details`
-
-| Qualification | Institution | Result / Period |
+| Qualification | Institution | Period / Result |
 |---|---|---|
-| B.E. Information Technology | Zeal College of Engineering & Research, Pune | CGPA 8.60 · 2023–2027 |
-| HSC | Residential Junior College of Science, Shevgaon | 75.50% · 2021–2023 |
-| SSC | Bhatkudgaon High School | 87.60% · 2020–2021 |
+| B.E. Information Technology | Zeal College of Engineering & Research, Pune | 2023–2027 · CGPA 8.60* |
+| HSC | Residential Junior College of Science, Shevgaon | 2021–2023 · 75.50% |
+| SSC | Bhatkudgaon High School | 2020–2021 · 87.60% |
 
-## `certifications --verified-from-resume`
+<sub>*CGPA shown as 8.60 from the most recently supplied resume. An earlier resume copy lists 9.00, so confirm the official current value before publishing.</sub>
 
-- Microsoft–SAP IR 4.0 Training
-- NVIDIA Generative AI
-- IBM Generative AI
+## 06 / Certifications & training
+
+- Microsoft–SAP IR 4.0 Technologies Training
+- NVIDIA — Generative AI
+- IBM — Generative AI
 - Azure AI Essentials
 - LinkedIn Learning — Data Analytics
 
-## `github --activity`
+## 07 / GitHub activity
 
 <div align="center">
 
-<a href="https://github.com/dnyandip26">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnyandip26&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B" alt="GitHub statistics for Dnyandip26" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Dnyandip26&show_icons=true&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&icon_color=C77B9B&ring_color=701A3D" alt="GitHub profile statistics" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyandip26&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&langs_count=8" alt="Most used languages" width="42%"/>
 
-<a href="https://github.com/dnyandip26">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyandip26&layout=compact&hide_border=true&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3" alt="Most used languages for Dnyandip26" />
-</a>
+<br/>
 
-<a href="https://github.com/dnyandip26">
-  <img src="https://streak-stats.demolab.com?user=dnyandip26&hide_border=true&background=10070C&ring=C77B9B&fire=E5B5C7&currStreakLabel=E5B5C7&sideLabels=F8F0F3&dates=C77B9B" alt="GitHub contribution streak for Dnyandip26" />
-</a>
+<img src="https://streak-stats.demolab.com?user=Dnyandip26&hide_border=true&background=10070C&ring=701A3D&fire=C77B9B&currStreakLabel=E5B5C7&sideLabels=F8F0F3&currStreakNum=F8F0F3&sideNums=F8F0F3&dates=C77B9B" alt="GitHub contribution streak" width="75%"/>
 
 </div>
 
-<sub>Third-party stats widgets can be unavailable or rate-limited; displayed values come from those services.</sub>
+<sub>Stats and streak images are supplied by external services and may occasionally be unavailable. Figures update independently of this README.</sub>
 
----
+## 08 / Let's connect
 
 <div align="center">
 
-<img src="./dnyandip-footer.svg" alt="Keep learning, keep building" width="100%" />
+If you're working on AI applications, retrieval systems, data-driven tools, or practical software projects, I'd be happy to connect and learn.
 
-**Thanks for visiting my profile.**  
-*Learn continuously · Build thoughtfully · Improve every day*
+<a href="https://github.com/Dnyandip26">GITHUB</a> ·
+<a href="https://www.linkedin.com/in/dnyandip-vadane/">LINKEDIN</a> ·
+<a href="mailto:dnyandipvadane@gmail.com">EMAIL</a>
+
+<img src="assets/dnyandip-footer.svg" alt="Build, learn, iterate — Dnyandip Vadane" width="100%"/>
 
 </div>
