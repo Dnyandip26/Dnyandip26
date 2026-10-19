@@ -91,41 +91,21 @@ Built a real-time face-recognition attendance system using Python and OpenCV, wi
 
 ## 04 / Experience
 
-### Java Development Intern — Incubators by Core2Web
-*July 2026 – Present*
-
-- Working on **RoadGuardian**, a smart road-safety application using Core Java and JavaFX.
-- Implemented geo-tagging and image-validation logic with attention to data integrity.
-- Integrated Firebase for real-time synchronization.
-- Participated in application testing, Git-based version control, and team collaboration.
-
-### IR 4.0 Technologies Training — Edunet Foundation / TechSaksham
-*February 2025 – March 2025*
-
-- Trained in Python, data analysis, Linux, AI, and Industry 4.0 technologies under the Microsoft–SAP initiative.
-- Used Pandas and NumPy for structured dataset handling and data analysis.
-
 <div align="center">
-<img src="dnyandip-footer.svg" alt="Build, learn, iterate — Dnyandip Vadane" width="100%"/>
+<img src="experience-card.svg" alt="Experience and training: Java Development Intern at Incubators by Core2Web and IR 4.0 Technologies Training" width="100%"/>
 </div>
 
 ## 05 / Education
 
-| Qualification | Institution | Period / Result |
-|---|---|---|
-| B.E. Information Technology | Zeal College of Engineering & Research, Pune | 2023–2027 · CGPA 8.60* |
-| HSC | Residential Junior College of Science, Shevgaon | 2021–2023 · 75.50% |
-| SSC | Bhatkudgaon High School | 2020–2021 · 87.60% |
-
-<sub>*Confirm that 8.60 is your official current CGPA before publishing.</sub>
+<div align="center">
+<img src="education-card.svg" alt="Education: B.E. Information Technology, HSC, and SSC results" width="100%"/>
+</div>
 
 ## 06 / Certifications & training
 
-- Microsoft–SAP IR 4.0 Technologies Training
-- NVIDIA — Generative AI
-- IBM — Generative AI
-- Azure AI Essentials
-- LinkedIn Learning — Data Analytics
+<div align="center">
+<img src="certifications-card.svg" alt="Certifications and training in Microsoft-SAP IR 4.0, NVIDIA Generative AI, IBM Generative AI, Azure AI Essentials, and LinkedIn Learning Data Analytics" width="100%"/>
+</div>
 
 ## 07 / GitHub activity
 
