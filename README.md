@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./dnyandip-hero.svg" alt="Dnyandip Vadane — AI/ML, Generative AI and Software Development" width="100%"/>
+<img src="dnyandip-avatar.svg" alt="Dnyandip Vadane profile avatar" width="112" height="112"/><br/><br/>
+<img src="dnyandip-hero.svg" alt="Dnyandip Vadane — AI/ML, Generative AI and Software Development" width="100%"/>
 
 <br/>
 
@@ -14,7 +15,7 @@
 
 <div align="center">
 
-### IT Engineer · AI/ML · Generative AI · Software Development
+### IT Engineering Student · AI/ML · Generative AI · Software Development
 
 I build practical AI applications, retrieval systems, and software projects — learning by turning ideas into working prototypes.
 
@@ -23,20 +24,20 @@ I build practical AI applications, retrieval systems, and software projects — 
 ## 01 / About me
 
 <div align="center">
-<img src="./dnyandip-terminal.svg" alt="Terminal-style introduction and quick profile" width="100%"/>
+<img src="dnyandip-terminal.svg" alt="Terminal-style introduction and quick profile" width="100%"/>
 </div>
 
-I'm **Dnyandip Vadane**,  **B.E. Information Technology** student at **Zeal College of Engineering & Research, Pune** (2023–2027). My work and learning span AI/ML,Java Development, retrieval-augmented generation, AI Automation, and software development.
+I'm **Dnyandip Vadane**, a final-year **B.E. Information Technology** student at **Zeal College of Engineering & Research, Pune** (2023–2027). My work and learning span AI/ML, computer vision, retrieval-augmented generation, data analysis, and software development.
 
 - Building Python-based AI applications and exploring LLM-powered retrieval workflows.
 - Interested in RAG, GraphRAG, data processing, and practical ML problem-solving.
-- Currently working as a **Java Development Intern at Incubators by Core2Web**, contributing to RoadGuardian.
+- Completed a **Java Development Internship at Incubators by Core2Web**, contributing to RoadGuardian.
 - Strengthening software engineering practices through testing, debugging, Git, and collaborative development.
 
 ## 02 / Selected work
 
 <div align="center">
-<img src="./project-graphrag.svg" alt="GraphRAG Inference Engine project card" width="100%"/>
+<img src="project-graphrag.svg" alt="GraphRAG Inference Engine project card" width="100%"/>
 </div>
 
 **GraphRAG Inference Engine — TigerGraph Hackathon**  
@@ -45,7 +46,7 @@ Compared LLM-only, standard RAG using FAISS, and GraphRAG pipelines for knowledg
 **Stack:** Python · FAISS · Sentence Transformers · Groq API · Streamlit
 
 <div align="center">
-<img src="./project-bis.svg" alt="BIS Compliance AI project card" width="100%"/>
+<img src="project-bis.svg" alt="BIS Compliance AI project card" width="100%"/>
 </div>
 
 **BIS Compliance AI — Hackathon Project**  
@@ -54,7 +55,7 @@ Built a retrieval-augmented generation pipeline to help Indian micro and small e
 **Stack:** Python · RAG · FAISS · Hybrid Retrieval · Streamlit
 
 <div align="center">
-<img src="./project-face.svg" alt="Face recognition attendance project card" width="100%"/>
+<img src="project-face.svg" alt="Face recognition attendance project card" width="100%"/>
 </div>
 
 **AI-Based Face Recognition System**  
@@ -106,7 +107,7 @@ Built a real-time face-recognition attendance system using Python and OpenCV, wi
 ## 04 / Experience
 
 ### Java Development Intern — Incubators by Core2Web
-*July 2026 – September 2026*
+*July 2026 – Present*
 
 - Working on **RoadGuardian**, a smart road-safety application using Core Java and JavaFX.
 - Implemented geo-tagging and image-validation logic with attention to data integrity.
@@ -123,11 +124,11 @@ Built a real-time face-recognition attendance system using Python and OpenCV, wi
 
 | Qualification | Institution | Period / Result |
 |---|---|---|
-| B.E. Information Technology | Zeal College of Engineering & Research, Pune | 2023–2027 · CGPA 8.60* |
+| B.E. Information Technology | Zeal College of Engineering & Research, Pune | 2023–2027 · CGPA 8.60 |
 | HSC | Residential Junior College of Science, Shevgaon | 2021–2023 · 75.50% |
 | SSC | Bhatkudgaon High School | 2020–2021 · 87.60% |
 
-<sub>*CGPA shown as 8.60 from the most recently supplied resume. An earlier resume copy lists 9.00, so confirm the official current value before publishing.</sub>
+<sub>*</sub>
 
 ## 06 / Certifications & training
 
@@ -162,6 +163,6 @@ If you're working on AI applications, retrieval systems, data-driven tools, or p
 <a href="https://www.linkedin.com/in/dnyandip-vadane/">LINKEDIN</a> ·
 <a href="mailto:dnyandipvadane@gmail.com">EMAIL</a>
 
-<img src="./dnyandip-footer.svg" alt="Build, learn, iterate — Dnyandip Vadane" width="100%"/>
+<img src="dnyandip-footer.svg" alt="Build, learn, iterate — Dnyandip Vadane" width="100%"/>
 
 </div>
