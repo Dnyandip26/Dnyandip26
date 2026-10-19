@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/dnyandip-hero.svg" alt="Dnyandip Vadane — AI/ML and Software Development" width="100%" />
+<img src="./dnyandip-hero.svg" alt="Dnyandip Vadane — AI/ML and Software Development" width="100%" />
 
 ### IT Engineering Student · AI/ML · Generative AI · Software Development
 
@@ -90,7 +90,7 @@ CGPA: **8.60**
 ---
 
 <div align="center">
-<img src="assets/dnyandip-footer.svg" alt="Keep learning, keep building" width="100%" />
+<img src="./dnyandip-footer.svg" alt="Keep learning, keep building" width="100%" />
 
 *Learning by building. Improving one project at a time.*
 </div>
